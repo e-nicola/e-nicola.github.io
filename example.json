@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
   "features": [
-    
     {
       "type": "Feature",
       "geometry": {
@@ -43,7 +42,6 @@
         "prop1": { "this": "that" }
       }
     },
-    
       {
       "type": "Feature",
       "geometry": {
@@ -59,7 +57,7 @@
         "prop0": "value0",
         "prop1": { "this": "that" }
       }
-    },
+    }
   
   ]
 }
