@@ -1,6 +1,7 @@
 {
   "type": "FeatureCollection",
   "features": [
+    
     {
       "type": "Feature",
       "geometry": {
@@ -11,6 +12,7 @@
         "prop0": "value0"
       }
     },
+    
     {
       "type": "Feature",
       "geometry": {
@@ -24,6 +26,7 @@
         "prop1": 0.0
       }
     },
+    
     {
       "type": "Feature",
       "geometry": {
@@ -39,6 +42,24 @@
         "prop0": "value0",
         "prop1": { "this": "that" }
       }
-    }
+    },
+    
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [10.0, 0.0], [11.0, 0.0], [11.0, 1.0],
+            [10.0, 1.0], [10.0, 0.0]
+          ]
+        ]
+      },
+      "properties": {
+        "prop0": "value0",
+        "prop1": { "this": "that" }
+      }
+    },
+  
   ]
 }
