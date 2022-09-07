@@ -1,11 +1,6 @@
-# My GitHub README
+# Website of Ernesto Nicola
 
-Welcome to my README!
-
-<div align="center">
-    <img src="IMG/example.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
-<div align="center">
-    <img src="IMG/example2.svg" width="400" height="400" alt="css-in-readme">
-</div>
+* [The Sun Now! (Informatiom about the Sun)](https://e-nicola.github.io/Sun/)
+* Cursos de Astronomía (in Spanish):
+    * [Curso Trimestral 2021](https://e-nicola.github.io/Astro-Curso-2021)
+    * [Curso Trimestral 2022](https://e-nicola.github.io/Astro-Curso-2022a)
