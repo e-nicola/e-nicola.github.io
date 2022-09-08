@@ -3,11 +3,11 @@
  
   | Moon Phase        | Day Numb. (rounded) | Day Numb. |
   | :---              |     ---:            |      ---: |
-  | New Moon          | 0                   | 0         |
-  | First Quarter Moon| 7                   | 7.38      |
-  | Full Moon         | 15                  | 14.76     |
-  | Last Quarter Moon | 22                  | 22.14     |
-  | New Moon          | 30                  | 29.52     |
+  | 🌑 New Moon          | 0                   | 0         |
+  | 🌓 First Quarter Moon| 7                   | 7.38      |
+  | 🌕 Full Moon         | 15                  | 14.76     |
+  | 🌗 Last Quarter Moon | 22                  | 22.14     |
+  | 🌑 New Moon          | 30                  | 29.52     |
 
 * Calculate the moon age from a date YYYY-MM-DD
 * Algorithm (simplified version of an algorithm by John Conway)
