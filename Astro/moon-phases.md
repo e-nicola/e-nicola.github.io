@@ -11,7 +11,7 @@
 
 * Calculate the moon age from a date YYYY-MM-DD
 * Algorithm (simplified version of an algorithm by John Conway)
-  1. Year YY
+  1. Year YYYY
     * This algorithm is valid for years 2000 to 2018 (from 2000-01-01 to 2018-12-31). If outside those years, add or subtract repeatedly 19 years till the year is in the range  2000 to 2018 (this uses the Metonic Cycle of 19 years)
     * Take the last two places of the year and add 2 (you can think of this as adding the 4 digits such that the last two are considered together)
     * Multiply by 11
