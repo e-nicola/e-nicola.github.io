@@ -1,12 +1,14 @@
 # Algorithm to calculate the phase of the Moon
 * Moon age: Number between 0 and 30=0 (recall that a lunation is 29.52 days); meaning:
-    | Moon Phase        | Day Numb. (rounded) | Day Numb. |
-    | :---              |     ---:            |      ---: |
-    | New Moon          | 0                   | 0         |
-    | First Quarter Moon| 7                   | 7.38      |
-    | Full Moon         | 15                  | 14.76     |
-    | Last Quarter Moon | 22                  | 22.14     |
-    | New Moon          | 30                  | 29.52     |
+ 
+| Moon Phase        | Day Numb. (rounded) | Day Numb. |
+| :---              |     ---:            |      ---: |
+| New Moon          | 0                   | 0         |
+| First Quarter Moon| 7                   | 7.38      |
+| Full Moon         | 15                  | 14.76     |
+| Last Quarter Moon | 22                  | 22.14     |
+| New Moon          | 30                  | 29.52     |
+
 * Calculate the moon age from a date YYYY-MM-DD
 * Algorithm (simplified version of an algorithm by John Conway)
   1. Year YY
