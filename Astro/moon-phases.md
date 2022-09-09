@@ -25,7 +25,7 @@
     * Subtract repeatedly 30 till the number is between 0 and 29
     * The result is the moon age (with a maximum error of +/- 2 days)
 
-* Examples
+### Examples
   1. 2000-01-06
     * (2+00)*11=22
     * 22+1+1=24
