@@ -1,4 +1,5 @@
 # Algorithm to calculate the phase of the Moon
+## Moon age
 * Moon age: Number between 0 and 30=0 (recall that a lunation is 29.52 days); meaning:
  
   | Moon Phase        | Day Numb. (rounded) | Day Numb. |
@@ -9,7 +10,7 @@
   | 🌗 Last Quarter Moon | 22                  | 22.14     |
   | 🌑 New Moon          | 30                  | 29.52     |
 
-* Calculate the moon age from a date YYYY-MM-DD
+## Calculate the moon age for any date YYYY-MM-DD
 * Algorithm (simplified version of an algorithm by John Conway)
   1. Year YYYY
     * This algorithm is valid for years 2000 to 2018 (from 2000-01-01 to 2018-12-31). If outside those years, add or subtract repeatedly 19 years till the year is in the range  2000 to 2018 (this uses the Metonic Cycle of 19 years)
