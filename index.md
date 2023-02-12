@@ -5,4 +5,4 @@
 * Cursos de Astronomía (in Spanish):
     * [Curso de introcucción a la astronomía (Palma; Trimestral 2021)](https://e-nicola.github.io/Astro-Curso-2021)
     * [Curso de introcucción a la astronomía (Palma; Trimestral 2022)](https://e-nicola.github.io/Astro-Curso-2022a)
-    * [Curso de introducción a la astronmía (Calviá 11-02-2023)](https://e-nicola.github.io/Curso-Calvia-2023-02)
+    * [Curso de introducción a la astronomía (Calviá 11-02-2023)](https://e-nicola.github.io/Curso-Calvia-2023-02)
