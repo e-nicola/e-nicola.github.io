@@ -7,4 +7,4 @@
     * [Curso de introducción a la astronomía (2022; Palma de Mallorca)](https://e-nicola.github.io/Astro-Curso-2022a)
     * [Curso de introducción a la astronomía (2023-02-11; Calvià)](https://e-nicola.github.io/Curso-Calvia-2023-02)
 
-[Ernesto Nicola's bio](https://e-nicola.github.io/Sun/bio_en.html)
+Ernesto Nicola's bio
