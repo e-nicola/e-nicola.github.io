@@ -4,3 +4,4 @@
 ## 15 de nov. - [Estrellas 2: Cúmulos Estelares y Nebulosas](https://e-nicola.github.io/Astro/2024-Sa-Riera/2024-11-15_2_Cielo_Profundo_web.pdf)
 ## 22 de nov. - [Galaxias: Estructura y Evolución](https://e-nicola.github.io/Astro/2024-Sa-Riera/2024-11-22_3_Galaxias_web.pdf)
 ## 29 de nov. - [Cosmología: Pasado y Futuro del Universo](https://e-nicola.github.io/Astro/2024-Sa-Riera/2024-11-29_4_Cosmologia_web.pdf)
+## Website of [Ernesto Nicola](https://e-nicola.github.io/Sun/bio_en.html)
