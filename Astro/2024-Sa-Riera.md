@@ -1,6 +1,5 @@
 # Clases del Curso de Sa Riera 2024
-## Información sobre el curso
-https://astromallorca.wordpress.com/2024/06/15/curso-de-astronomia-10-clases-durante-sep-oct-y-nov-de-2024/
+## [Información sobre el curso](https://astromallorca.wordpress.com/2024/06/15/curso-de-astronomia-10-clases-durante-sep-oct-y-nov-de-2024/)
 ## Estrellas 1: Evolución Estelar
 08 de nov., vie. de 19 a 21 h
 https://e-nicola.github.io/Astro/2024-Sa-Riera/2024-11-08_1_Estrellas_web.pdf
