@@ -1,4 +1,4 @@
-# Ernesto Nicola's Biography
+# [Ernesto Nicola](https://e-nicola.github.io)'s Biography
 <img src="Img/ernesto_nicola.jpg" width=350 align=right>
 
 Ernesto Nicola was born in Argentina, but now lives in Mallorca (Spain). Before coming to Mallorca, he lived a number of years in Germany, Spain and Sweden.
